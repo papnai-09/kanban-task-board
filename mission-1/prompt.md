@@ -1,1 +1,1 @@
-I did not use any AI tools. I built this project by learning from YouTube videos and implementing everything myself.
+Add a dark/light mode toggle button in the navbar. The default theme should be light. Use JavaScript to toggle a class on the body and update colors accordingly.
