@@ -42,7 +42,6 @@ body{
     overflow-x: hidden;
 }
 
-/* ================= NAVBAR ================= */
 
 .navbar{
     background:var(--navbar-bg);
@@ -236,6 +235,8 @@ body.dark .hero-section{
 }
 
 
+
+
 @media(max-width:768px){
 
     .nav-links{
@@ -258,4 +259,5 @@ body.dark .hero-section{
     .hamburger{
         display:block;
     }
+
 }
