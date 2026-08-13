@@ -15,7 +15,7 @@ export default function Header({ totalTasks, completedTasks }) {
         </div>
         <div className="progress-track"><span style={{ width: totalTasks ? `${(completedTasks / totalTasks) * 100}%` : '0%' }} /></div>
       </div>
-      <div className="avatar" title="Your workspace">FH</div>
+      <div className="avatar" title="Your workspace">Gaurav</div>
     </header>
   );
 }
